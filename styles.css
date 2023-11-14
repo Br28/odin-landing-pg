@@ -104,4 +104,22 @@ a:hover{
 
 .para{
     text-align: center;
+    color: #1F2937;
+}
+
+.hero-4{
+    background-color: #e5e7eb;
+    font-size: 30px;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.random-quote{
+    padding: 20px;
+}
+
+.quote-author{
+    margin-left: auto;
 }
