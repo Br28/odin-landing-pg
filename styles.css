@@ -78,6 +78,7 @@ a:hover{
 
 .third-layer{
     background-color: white;
+    display: flex;
     
 }
 
