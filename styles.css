@@ -89,11 +89,11 @@ a:hover{
 .some-random{
     text-align: center;
     padding: 10px;
+    font-size: 36px;
 }
 
 .first-image{
     height: 10px;
-    border: 3px solid blue;
-    border-radius: 5px;
+   
     
 }
