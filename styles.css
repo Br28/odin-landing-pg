@@ -123,3 +123,43 @@ a:hover{
 .quote-author{
     margin-left: auto;
 }
+
+.hero-5{
+    background-color: white;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+.call{
+    /* border: 1px solid #3882f6; */
+    background-color: #3882f6;
+    border-radius: 7px;
+    padding: 25px;
+    margin: 20px;
+}
+
+.call-text{
+    font-size: 28px;
+    color: white;
+}
+
+.call-para{
+    color: white;
+    font-size: 18px;
+}
+
+
+.call-button{
+    background-color: #3882f6;
+    border: 1px solid white;
+    border-radius: 6px;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
