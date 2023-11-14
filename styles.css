@@ -75,3 +75,13 @@ a:hover{
     width: 300px;
     margin-left:  auto;
 }
+
+.third-layer{
+    background-color: white;
+    
+}
+
+.some-random{
+    text-align: center;
+    padding: 10px;
+}
