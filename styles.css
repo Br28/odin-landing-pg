@@ -109,8 +109,6 @@ a:hover{
 
 .hero-4{
     background-color: #e5e7eb;
-    font-size: 30px;
-    font-style: italic;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -118,6 +116,8 @@ a:hover{
 
 .random-quote{
     padding: 20px;
+    font-size: 24px;
+    font-style: italic;
 }
 
 .quote-author{
@@ -136,15 +136,19 @@ a:hover{
 }
 
 .call{
-    /* border: 1px solid #3882f6; */
     background-color: #3882f6;
     border-radius: 7px;
     padding: 25px;
     margin: 20px;
 }
 
+.call-c{
+    display: flex;
+}
+
 .call-text{
     font-size: 28px;
+    font-weight: bold;
     color: white;
 }
 
@@ -162,4 +166,15 @@ a:hover{
     padding: 5px;
     margin: 5px;
     text-align: center;
+}
+
+.hero-6{
+    background-color: #1F2937;
+}
+
+.footer{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
 }
