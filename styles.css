@@ -35,7 +35,7 @@ a:hover{
     background-color: grey;
 }
 
-.second-layer{
+.hero-2{
     background-color: #1F2937;
     color: white;
     display: flex;
@@ -80,7 +80,7 @@ a:hover{
     margin-left:  auto;
 }
 
-.third-layer{
+.hero-3{
     background-color: white;
     height: 50vh;
     display: flex;
@@ -96,12 +96,6 @@ a:hover{
     font-size: 36px;
 }
 
-
-.fourth-layer{
-    background-color: #e5e7eb;
-    height: 10vh;
-    margin-bottom: 20px;
-}
 
 .img{
     border-radius: 10px;
